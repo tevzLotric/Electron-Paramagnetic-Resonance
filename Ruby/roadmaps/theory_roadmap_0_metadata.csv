@@ -1,0 +1,11 @@
+,0
+g-factor,2.0
+D,5.71
+transition_frequency,9.33
+CBg_slope,13.996
+B_low,0.0
+B_high,0.8
+B_steps,2000.0
+theta_low,0.0
+theta_high,1.5707963267948966
+theta_steps,1000.0
